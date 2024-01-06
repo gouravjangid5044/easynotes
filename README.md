@@ -1,3 +1,9 @@
+
+
+
+https://github.com/gouravjangid5044/easynotes/assets/67137827/e035aada-10f0-4793-aca3-ab019871d418
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
